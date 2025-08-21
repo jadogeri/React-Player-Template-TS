@@ -1,13 +1,13 @@
-## **React Player Template JS**
+## **React Player Template TS**
 
 **Version:** 1.1
-**Date:** June 22, 2025
+**Date:** August 21, 2025
 
 ---
 
 ## Description
 
-This is a frontend Application template utilizing React Player package for playing videos online in ReactJS.
+This is a frontend Application template utilizing React Player package for playing videos online in ReactJS (typescript).
 
 ## Authors
 
@@ -17,11 +17,11 @@ This is a frontend Application template utilizing React Player package for playi
 
 Website is hosted using Github Pages.
 
- [https://jadogeri.github.io/React-Player-Template-JS](https://jadogeri.github.io/React-Player-Template-JS/)
+ [https://jadogeri.github.io/React-Player-Template-TS](https://jadogeri.github.io/React-Player-Template-TS/)
 
 ## Repository
 
-[source code ](https://github.com/jadogeri/React-Player-Template-JS.git)
+[source code ](https://github.com/jadogeri/React-Player-Template-TS.git)
 
 ## Screenshots
 -------------------------------------------------------------------------------------------------
@@ -79,16 +79,16 @@ This document outlines the components, and design considerations for add printin
 
 1 Open command prompt or terminal.
 
-2 Type command git clone https://github.com/jadogeri/React-Player-Template-JS.git then press enter.
+2 Type command git clone https://github.com/jadogeri/React-Player-Template-TS.git then press enter.
 
 ```bash
-  git clone https://github.com/jadogeri/React-Player-Template-JS.git
+  git clone https://github.com/jadogeri/React-Player-Template-TS.git
 ```
 
-3 Enter command cd React-Player-Template-JS/app then press enter.
+3 Enter command cd React-Player-Template-TS/app then press enter.
 
 ```bash
-  cd React-Player-Template-JS/app
+  cd React-Player-Template-TS/app
 ```
 
 #### **3.1.1 Run Locally** ####
