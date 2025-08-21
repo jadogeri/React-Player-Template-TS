@@ -32,30 +32,22 @@ Website is hosted using Github Pages.
 ## Table of Contents
 
 <ul>
-      <li><a href="#1-introduction">1. Introduction</a>
-        <ul>
-          <li><a href="#11-purpose">1.1 Purpose</a> </li>
-        </ul>
-      </li>
+  <li><a href="#1-introduction">1. Introduction</a>
+    <ul>
+      <li><a href="#11-purpose">1.1 Purpose</a> </li>
     </ul>
-     <ul>
-      <li><a href="#5-installation">2. Installation</a>
-      </li>
-    </ul> 
+  </li>
+  <li><a href="#5-installation">2. Installation</a> </li>
+  <li><a href="#6-usage">3. Usage</a>
     <ul>
-        <li><a href="#6-usage">3. Usage</a>
-        <ul>
-            <li><a href="#61-run-application">3.1 Run Application</a> </li>
-            <ul>
-              <li><a href="#611-run-locally">3.1.1 Run Locally</a> </li>
-            </ul>
-        </ul>
+        <li><a href="#61-run-application">3.1 Run Application</a> 
+          <ul>
+            <li><a href="#611-run-locally">3.1.1 Run Locally</a> </li>
+          </ul>
         </li>
-    </ul> 
-    <ul> 
-        <li><a href="#10-references">4. References</a>
-        </li>
-    <ul>
+    </ul>
+  </li>
+  <li><a href="#10-references">4. References</a></li>
 </ul>
 
 

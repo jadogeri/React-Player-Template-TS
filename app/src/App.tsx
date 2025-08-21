@@ -28,7 +28,7 @@ function App() {
   };
 
   const handleSubmit = () => {
-    let counter;
+    let counter: any;
     setIsLoading(true);
     
       counter = setTimeout(() => {
